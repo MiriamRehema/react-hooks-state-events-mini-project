@@ -6,6 +6,7 @@ function Task() {
       <div className="label">CATEGORY HERE</div>
       <div className="text">TEXT HERE</div>
       <button className="delete">X</button>
+     
     </div>
   );
 }
